@@ -1,0 +1,320 @@
+/Users/abdulsattar/Contacts/Classes/RootViewController.m: In function '-[RootViewController searchTableView]':
+/Users/abdulsattar/Contacts/Classes/RootViewController.m:153: error: expected ')' before 'in'
+/Users/abdulsattar/Contacts/Classes/RootViewController.m:154: error: expected expression before 'NSRange'
+/Users/abdulsattar/Contacts/Classes/RootViewController.m:155: error: 'titleResultsRange' undeclared (first use in this function)
+/Users/abdulsattar/Contacts/Classes/RootViewController.m:155: error: (Each undeclared identifier is reported only once
+/Users/abdulsattar/Contacts/Classes/RootViewController.m:155: error: for each function it appears in.)
+/Users/abdulsattar/Contacts/Classes/RootViewController.m:156: warning: 'NSMutableArray' may not respond to '-addObject'
+/Users/abdulsattar/Contacts/Classes/RootViewController.m:156: warning: (Messages without a matching method signature
+/Users/abdulsattar/Contacts/Classes/RootViewController.m:156: warning: will be assumed to return 'id' and accept
+/Users/abdulsattar/Contacts/Classes/RootViewController.m:156: warning: '...' as arguments.)
+/Users/abdulsattar/Contacts/Classes/RootViewController.m:151: warning: unused variable 'ob'
+/Users/abdulsattar/Contacts/Classes/RootViewController.m:146: warning: unused variable 'searchText'
+{standard input}:1180:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_40" minus "L00000000005$pb"
+{standard input}:1180:symbol: "L_OBJC_SELECTOR_REFERENCES_40" can't be undefined in a subtraction expression
+{standard input}:1150:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_41" minus "L00000000004$pb"
+{standard input}:1150:symbol: "L_OBJC_SELECTOR_REFERENCES_41" can't be undefined in a subtraction expression
+{standard input}:1144:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_15" minus "L00000000004$pb"
+{standard input}:1144:symbol: "L_OBJC_SELECTOR_REFERENCES_15" can't be undefined in a subtraction expression
+{standard input}:1135:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_27" minus "L00000000004$pb"
+{standard input}:1135:symbol: "L_OBJC_SELECTOR_REFERENCES_27" can't be undefined in a subtraction expression
+{standard input}:1129:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_15" minus "L00000000004$pb"
+{standard input}:1129:symbol: "L_OBJC_SELECTOR_REFERENCES_15" can't be undefined in a subtraction expression
+{standard input}:1122:non-relocatable subtraction expression, "L_OBJC_IVAR_$_RootViewController.letUserSelectRow$non_lazy_ptr" minus "L00000000004$pb"
+{standard input}:1122:symbol: "L_OBJC_IVAR_$_RootViewController.letUserSelectRow$non_lazy_ptr" can't be undefined in a subtraction expression
+{standard input}:1115:non-relocatable subtraction expression, "L_OBJC_IVAR_$_RootViewController.searching$non_lazy_ptr" minus "L00000000004$pb"
+{standard input}:1115:symbol: "L_OBJC_IVAR_$_RootViewController.searching$non_lazy_ptr" can't be undefined in a subtraction expression
+{standard input}:1106:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_26" minus "L00000000004$pb"
+{standard input}:1106:symbol: "L_OBJC_SELECTOR_REFERENCES_26" can't be undefined in a subtraction expression
+{standard input}:1100:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_35" minus "L00000000004$pb"
+{standard input}:1100:symbol: "L_OBJC_SELECTOR_REFERENCES_35" can't be undefined in a subtraction expression
+{standard input}:1094:non-relocatable subtraction expression, "L_OBJC_IVAR_$_RootViewController.ovController$non_lazy_ptr" minus "L00000000004$pb"
+{standard input}:1094:symbol: "L_OBJC_IVAR_$_RootViewController.ovController$non_lazy_ptr" can't be undefined in a subtraction expression
+{standard input}:1087:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_35" minus "L00000000004$pb"
+{standard input}:1087:symbol: "L_OBJC_SELECTOR_REFERENCES_35" can't be undefined in a subtraction expression
+{standard input}:1081:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_36" minus "L00000000004$pb"
+{standard input}:1081:symbol: "L_OBJC_SELECTOR_REFERENCES_36" can't be undefined in a subtraction expression
+{standard input}:1074:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_15" minus "L00000000004$pb"
+{standard input}:1074:symbol: "L_OBJC_SELECTOR_REFERENCES_15" can't be undefined in a subtraction expression
+{standard input}:1065:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_40" minus "L00000000004$pb"
+{standard input}:1065:symbol: "L_OBJC_SELECTOR_REFERENCES_40" can't be undefined in a subtraction expression
+{standard input}:1057:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_27" minus "L00000000004$pb"
+{standard input}:1057:symbol: "L_OBJC_SELECTOR_REFERENCES_27" can't be undefined in a subtraction expression
+{standard input}:1051:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_15" minus "L00000000004$pb"
+{standard input}:1051:symbol: "L_OBJC_SELECTOR_REFERENCES_15" can't be undefined in a subtraction expression
+{standard input}:1044:non-relocatable subtraction expression, "L_OBJC_IVAR_$_RootViewController.letUserSelectRow$non_lazy_ptr" minus "L00000000004$pb"
+{standard input}:1044:symbol: "L_OBJC_IVAR_$_RootViewController.letUserSelectRow$non_lazy_ptr" can't be undefined in a subtraction expression
+{standard input}:1037:non-relocatable subtraction expression, "L_OBJC_IVAR_$_RootViewController.searching$non_lazy_ptr" minus "L00000000004$pb"
+{standard input}:1037:symbol: "L_OBJC_IVAR_$_RootViewController.searching$non_lazy_ptr" can't be undefined in a subtraction expression
+{standard input}:1030:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_39" minus "L00000000004$pb"
+{standard input}:1030:symbol: "L_OBJC_SELECTOR_REFERENCES_39" can't be undefined in a subtraction expression
+{standard input}:1024:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_35" minus "L00000000004$pb"
+{standard input}:1024:symbol: "L_OBJC_SELECTOR_REFERENCES_35" can't be undefined in a subtraction expression
+{standard input}:1018:non-relocatable subtraction expression, "L_OBJC_IVAR_$_RootViewController.ovController$non_lazy_ptr" minus "L00000000004$pb"
+{standard input}:1018:symbol: "L_OBJC_IVAR_$_RootViewController.ovController$non_lazy_ptr" can't be undefined in a subtraction expression
+{standard input}:1009:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_10" minus "L00000000004$pb"
+{standard input}:1009:symbol: "L_OBJC_SELECTOR_REFERENCES_10" can't be undefined in a subtraction expression
+{standard input}:1002:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_38" minus "L00000000004$pb"
+{standard input}:1002:symbol: "L_OBJC_SELECTOR_REFERENCES_38" can't be undefined in a subtraction expression
+{standard input}:996:non-relocatable subtraction expression, "L_OBJC_IVAR_$_RootViewController.copyListOfItems$non_lazy_ptr" minus "L00000000004$pb"
+{standard input}:996:symbol: "L_OBJC_IVAR_$_RootViewController.copyListOfItems$non_lazy_ptr" can't be undefined in a subtraction expression
+{standard input}:925:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_31" minus "L00000000003$pb"
+{standard input}:925:symbol: "L_OBJC_SELECTOR_REFERENCES_31" can't be undefined in a subtraction expression
+{standard input}:918:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_37" minus "L00000000003$pb"
+{standard input}:918:symbol: "L_OBJC_SELECTOR_REFERENCES_37" can't be undefined in a subtraction expression
+{standard input}:911:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_30" minus "L00000000003$pb"
+{standard input}:911:symbol: "L_OBJC_SELECTOR_REFERENCES_30" can't be undefined in a subtraction expression
+{standard input}:902:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_29" minus "L00000000003$pb"
+{standard input}:902:symbol: "L_OBJC_SELECTOR_REFERENCES_29" can't be undefined in a subtraction expression
+{standard input}:899:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_28" minus "L00000000003$pb"
+{standard input}:899:symbol: "L_OBJC_SELECTOR_REFERENCES_28" can't be undefined in a subtraction expression
+{standard input}:893:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_4" minus "L00000000003$pb"
+{standard input}:893:symbol: "L_OBJC_SELECTOR_REFERENCES_4" can't be undefined in a subtraction expression
+{standard input}:890:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_7" minus "L00000000003$pb"
+{standard input}:890:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_7" can't be undefined in a subtraction expression
+{standard input}:883:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_27" minus "L00000000003$pb"
+{standard input}:883:symbol: "L_OBJC_SELECTOR_REFERENCES_27" can't be undefined in a subtraction expression
+{standard input}:877:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_15" minus "L00000000003$pb"
+{standard input}:877:symbol: "L_OBJC_SELECTOR_REFERENCES_15" can't be undefined in a subtraction expression
+{standard input}:870:non-relocatable subtraction expression, "L_OBJC_IVAR_$_RootViewController.letUserSelectRow$non_lazy_ptr" minus "L00000000003$pb"
+{standard input}:870:symbol: "L_OBJC_IVAR_$_RootViewController.letUserSelectRow$non_lazy_ptr" can't be undefined in a subtraction expression
+{standard input}:863:non-relocatable subtraction expression, "L_OBJC_IVAR_$_RootViewController.searching$non_lazy_ptr" minus "L00000000003$pb"
+{standard input}:863:symbol: "L_OBJC_IVAR_$_RootViewController.searching$non_lazy_ptr" can't be undefined in a subtraction expression
+{standard input}:854:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_26" minus "L00000000003$pb"
+{standard input}:854:symbol: "L_OBJC_SELECTOR_REFERENCES_26" can't be undefined in a subtraction expression
+{standard input}:848:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_35" minus "L00000000003$pb"
+{standard input}:848:symbol: "L_OBJC_SELECTOR_REFERENCES_35" can't be undefined in a subtraction expression
+{standard input}:842:non-relocatable subtraction expression, "L_OBJC_IVAR_$_RootViewController.ovController$non_lazy_ptr" minus "L00000000003$pb"
+{standard input}:842:symbol: "L_OBJC_IVAR_$_RootViewController.ovController$non_lazy_ptr" can't be undefined in a subtraction expression
+{standard input}:835:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_35" minus "L00000000003$pb"
+{standard input}:835:symbol: "L_OBJC_SELECTOR_REFERENCES_35" can't be undefined in a subtraction expression
+{standard input}:829:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_36" minus "L00000000003$pb"
+{standard input}:829:symbol: "L_OBJC_SELECTOR_REFERENCES_36" can't be undefined in a subtraction expression
+{standard input}:822:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_15" minus "L00000000003$pb"
+{standard input}:822:symbol: "L_OBJC_SELECTOR_REFERENCES_15" can't be undefined in a subtraction expression
+{standard input}:813:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_25" minus "L00000000003$pb"
+{standard input}:813:symbol: "L_OBJC_SELECTOR_REFERENCES_25" can't be undefined in a subtraction expression
+{standard input}:807:non-relocatable subtraction expression, "L_OBJC_IVAR_$_RootViewController.ovController$non_lazy_ptr" minus "L00000000003$pb"
+{standard input}:807:symbol: "L_OBJC_IVAR_$_RootViewController.ovController$non_lazy_ptr" can't be undefined in a subtraction expression
+{standard input}:799:non-relocatable subtraction expression, "LC11" minus "L00000000003$pb"
+{standard input}:799:symbol: "LC11" can't be undefined in a subtraction expression
+{standard input}:797:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_24" minus "L00000000003$pb"
+{standard input}:797:symbol: "L_OBJC_SELECTOR_REFERENCES_24" can't be undefined in a subtraction expression
+{standard input}:791:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_35" minus "L00000000003$pb"
+{standard input}:791:symbol: "L_OBJC_SELECTOR_REFERENCES_35" can't be undefined in a subtraction expression
+{standard input}:785:non-relocatable subtraction expression, "L_OBJC_IVAR_$_RootViewController.ovController$non_lazy_ptr" minus "L00000000003$pb"
+{standard input}:785:symbol: "L_OBJC_IVAR_$_RootViewController.ovController$non_lazy_ptr" can't be undefined in a subtraction expression
+{standard input}:777:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_23" minus "L00000000003$pb"
+{standard input}:777:symbol: "L_OBJC_SELECTOR_REFERENCES_23" can't be undefined in a subtraction expression
+{standard input}:771:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_35" minus "L00000000003$pb"
+{standard input}:771:symbol: "L_OBJC_SELECTOR_REFERENCES_35" can't be undefined in a subtraction expression
+{standard input}:765:non-relocatable subtraction expression, "L_OBJC_IVAR_$_RootViewController.ovController$non_lazy_ptr" minus "L00000000003$pb"
+{standard input}:765:symbol: "L_OBJC_IVAR_$_RootViewController.ovController$non_lazy_ptr" can't be undefined in a subtraction expression
+{standard input}:758:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_22" minus "L00000000003$pb"
+{standard input}:758:symbol: "L_OBJC_SELECTOR_REFERENCES_22" can't be undefined in a subtraction expression
+{standard input}:755:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_6" minus "L00000000003$pb"
+{standard input}:755:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_6" can't be undefined in a subtraction expression
+{standard input}:733:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_21" minus "L00000000003$pb"
+{standard input}:733:symbol: "L_OBJC_SELECTOR_REFERENCES_21" can't be undefined in a subtraction expression
+{standard input}:727:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_35" minus "L00000000003$pb"
+{standard input}:727:symbol: "L_OBJC_SELECTOR_REFERENCES_35" can't be undefined in a subtraction expression
+{standard input}:721:non-relocatable subtraction expression, "L_OBJC_IVAR_$_RootViewController.ovController$non_lazy_ptr" minus "L00000000003$pb"
+{standard input}:721:symbol: "L_OBJC_IVAR_$_RootViewController.ovController$non_lazy_ptr" can't be undefined in a subtraction expression
+{standard input}:713:non-relocatable subtraction expression, "LC10" minus "L00000000003$pb"
+{standard input}:713:symbol: "LC10" can't be undefined in a subtraction expression
+{standard input}:695:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_32" minus "L00000000003$pb"
+{standard input}:695:symbol: "L_OBJC_SELECTOR_REFERENCES_32" can't be undefined in a subtraction expression
+{standard input}:689:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_35" minus "L00000000003$pb"
+{standard input}:689:symbol: "L_OBJC_SELECTOR_REFERENCES_35" can't be undefined in a subtraction expression
+{standard input}:677:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_32" minus "L00000000003$pb"
+{standard input}:677:symbol: "L_OBJC_SELECTOR_REFERENCES_32" can't be undefined in a subtraction expression
+{standard input}:671:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_35" minus "L00000000003$pb"
+{standard input}:671:symbol: "L_OBJC_SELECTOR_REFERENCES_35" can't be undefined in a subtraction expression
+{standard input}:659:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_32" minus "L00000000003$pb"
+{standard input}:659:symbol: "L_OBJC_SELECTOR_REFERENCES_32" can't be undefined in a subtraction expression
+{standard input}:653:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_33" minus "L00000000003$pb"
+{standard input}:653:symbol: "L_OBJC_SELECTOR_REFERENCES_33" can't be undefined in a subtraction expression
+{standard input}:647:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_34" minus "L00000000003$pb"
+{standard input}:647:symbol: "L_OBJC_SELECTOR_REFERENCES_34" can't be undefined in a subtraction expression
+{standard input}:636:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_20" minus "L00000000003$pb"
+{standard input}:636:symbol: "L_OBJC_SELECTOR_REFERENCES_20" can't be undefined in a subtraction expression
+{standard input}:629:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_19" minus "L00000000003$pb"
+{standard input}:629:symbol: "L_OBJC_SELECTOR_REFERENCES_19" can't be undefined in a subtraction expression
+{standard input}:626:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_5" minus "L00000000003$pb"
+{standard input}:626:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_5" can't be undefined in a subtraction expression
+{standard input}:620:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_4" minus "L00000000003$pb"
+{standard input}:620:symbol: "L_OBJC_SELECTOR_REFERENCES_4" can't be undefined in a subtraction expression
+{standard input}:617:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_4" minus "L00000000003$pb"
+{standard input}:617:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_4" can't be undefined in a subtraction expression
+{standard input}:612:non-relocatable subtraction expression, "L_OBJC_IVAR_$_RootViewController.ovController$non_lazy_ptr" minus "L00000000003$pb"
+{standard input}:612:symbol: "L_OBJC_IVAR_$_RootViewController.ovController$non_lazy_ptr" can't be undefined in a subtraction expression
+{standard input}:603:non-relocatable subtraction expression, "L_OBJC_IVAR_$_RootViewController.ovController$non_lazy_ptr" minus "L00000000003$pb"
+{standard input}:603:symbol: "L_OBJC_IVAR_$_RootViewController.ovController$non_lazy_ptr" can't be undefined in a subtraction expression
+{standard input}:594:non-relocatable subtraction expression, "L_OBJC_IVAR_$_RootViewController.searching$non_lazy_ptr" minus "L00000000003$pb"
+{standard input}:594:symbol: "L_OBJC_IVAR_$_RootViewController.searching$non_lazy_ptr" can't be undefined in a subtraction expression
+{standard input}:550:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_6" minus "L00000000002$pb"
+{standard input}:550:symbol: "L_OBJC_SELECTOR_REFERENCES_6" can't be undefined in a subtraction expression
+{standard input}:505:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_7" minus "L00000000001$pb"
+{standard input}:505:symbol: "L_OBJC_SELECTOR_REFERENCES_7" can't be undefined in a subtraction expression
+{standard input}:493:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_18" minus "L00000000001$pb"
+{standard input}:493:symbol: "L_OBJC_SELECTOR_REFERENCES_18" can't be undefined in a subtraction expression
+{standard input}:486:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_17" minus "L00000000001$pb"
+{standard input}:486:symbol: "L_OBJC_SELECTOR_REFERENCES_17" can't be undefined in a subtraction expression
+{standard input}:478:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_14" minus "L00000000001$pb"
+{standard input}:478:symbol: "L_OBJC_SELECTOR_REFERENCES_14" can't be undefined in a subtraction expression
+{standard input}:471:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_16" minus "L00000000001$pb"
+{standard input}:471:symbol: "L_OBJC_SELECTOR_REFERENCES_16" can't be undefined in a subtraction expression
+{standard input}:462:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_13" minus "L00000000001$pb"
+{standard input}:462:symbol: "L_OBJC_SELECTOR_REFERENCES_13" can't be undefined in a subtraction expression
+{standard input}:452:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_13" minus "L00000000001$pb"
+{standard input}:452:symbol: "L_OBJC_SELECTOR_REFERENCES_13" can't be undefined in a subtraction expression
+{standard input}:440:non-relocatable subtraction expression, "L_kABPersonPhoneProperty$non_lazy_ptr" minus "L00000000001$pb"
+{standard input}:440:symbol: "L_kABPersonPhoneProperty$non_lazy_ptr" can't be undefined in a subtraction expression
+{standard input}:427:non-relocatable subtraction expression, "L_kABPersonPhoneProperty$non_lazy_ptr" minus "L00000000001$pb"
+{standard input}:427:symbol: "L_kABPersonPhoneProperty$non_lazy_ptr" can't be undefined in a subtraction expression
+{standard input}:419:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_12" minus "L00000000001$pb"
+{standard input}:419:symbol: "L_OBJC_SELECTOR_REFERENCES_12" can't be undefined in a subtraction expression
+{standard input}:407:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_12" minus "L00000000001$pb"
+{standard input}:407:symbol: "L_OBJC_SELECTOR_REFERENCES_12" can't be undefined in a subtraction expression
+{standard input}:398:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_9" minus "L00000000001$pb"
+{standard input}:398:symbol: "L_OBJC_SELECTOR_REFERENCES_9" can't be undefined in a subtraction expression
+{standard input}:389:non-relocatable subtraction expression, "L_kABPersonLastNameProperty$non_lazy_ptr" minus "L00000000001$pb"
+{standard input}:389:symbol: "L_kABPersonLastNameProperty$non_lazy_ptr" can't be undefined in a subtraction expression
+{standard input}:386:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_3" minus "L00000000001$pb"
+{standard input}:386:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_3" can't be undefined in a subtraction expression
+{standard input}:377:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_10" minus "L00000000001$pb"
+{standard input}:377:symbol: "L_OBJC_SELECTOR_REFERENCES_10" can't be undefined in a subtraction expression
+{standard input}:369:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_9" minus "L00000000001$pb"
+{standard input}:369:symbol: "L_OBJC_SELECTOR_REFERENCES_9" can't be undefined in a subtraction expression
+{standard input}:360:non-relocatable subtraction expression, "L_kABPersonLastNameProperty$non_lazy_ptr" minus "L00000000001$pb"
+{standard input}:360:symbol: "L_kABPersonLastNameProperty$non_lazy_ptr" can't be undefined in a subtraction expression
+{standard input}:357:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_3" minus "L00000000001$pb"
+{standard input}:357:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_3" can't be undefined in a subtraction expression
+{standard input}:348:non-relocatable subtraction expression, "L_kABPersonLastNameProperty$non_lazy_ptr" minus "L00000000001$pb"
+{standard input}:348:symbol: "L_kABPersonLastNameProperty$non_lazy_ptr" can't be undefined in a subtraction expression
+{standard input}:340:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_11" minus "L00000000001$pb"
+{standard input}:340:symbol: "L_OBJC_SELECTOR_REFERENCES_11" can't be undefined in a subtraction expression
+{standard input}:328:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_11" minus "L00000000001$pb"
+{standard input}:328:symbol: "L_OBJC_SELECTOR_REFERENCES_11" can't be undefined in a subtraction expression
+{standard input}:319:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_9" minus "L00000000001$pb"
+{standard input}:319:symbol: "L_OBJC_SELECTOR_REFERENCES_9" can't be undefined in a subtraction expression
+{standard input}:310:non-relocatable subtraction expression, "L_kABPersonFirstNameProperty$non_lazy_ptr" minus "L00000000001$pb"
+{standard input}:310:symbol: "L_kABPersonFirstNameProperty$non_lazy_ptr" can't be undefined in a subtraction expression
+{standard input}:307:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_3" minus "L00000000001$pb"
+{standard input}:307:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_3" can't be undefined in a subtraction expression
+{standard input}:298:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_10" minus "L00000000001$pb"
+{standard input}:298:symbol: "L_OBJC_SELECTOR_REFERENCES_10" can't be undefined in a subtraction expression
+{standard input}:290:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_9" minus "L00000000001$pb"
+{standard input}:290:symbol: "L_OBJC_SELECTOR_REFERENCES_9" can't be undefined in a subtraction expression
+{standard input}:281:non-relocatable subtraction expression, "L_kABPersonFirstNameProperty$non_lazy_ptr" minus "L00000000001$pb"
+{standard input}:281:symbol: "L_kABPersonFirstNameProperty$non_lazy_ptr" can't be undefined in a subtraction expression
+{standard input}:278:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_3" minus "L00000000001$pb"
+{standard input}:278:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_3" can't be undefined in a subtraction expression
+{standard input}:269:non-relocatable subtraction expression, "L_kABPersonFirstNameProperty$non_lazy_ptr" minus "L00000000001$pb"
+{standard input}:269:symbol: "L_kABPersonFirstNameProperty$non_lazy_ptr" can't be undefined in a subtraction expression
+{standard input}:255:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_5" minus "L00000000001$pb"
+{standard input}:255:symbol: "L_OBJC_SELECTOR_REFERENCES_5" can't be undefined in a subtraction expression
+{standard input}:249:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_4" minus "L00000000001$pb"
+{standard input}:249:symbol: "L_OBJC_SELECTOR_REFERENCES_4" can't be undefined in a subtraction expression
+{standard input}:246:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_2" minus "L00000000001$pb"
+{standard input}:246:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_2" can't be undefined in a subtraction expression
+{standard input}:234:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_7" minus "L00000000001$pb"
+{standard input}:234:symbol: "L_OBJC_SELECTOR_REFERENCES_7" can't be undefined in a subtraction expression
+{standard input}:225:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_8" minus "L00000000001$pb"
+{standard input}:225:symbol: "L_OBJC_SELECTOR_REFERENCES_8" can't be undefined in a subtraction expression
+{standard input}:217:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_5" minus "L00000000001$pb"
+{standard input}:217:symbol: "L_OBJC_SELECTOR_REFERENCES_5" can't be undefined in a subtraction expression
+{standard input}:211:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_4" minus "L00000000001$pb"
+{standard input}:211:symbol: "L_OBJC_SELECTOR_REFERENCES_4" can't be undefined in a subtraction expression
+{standard input}:208:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_1" minus "L00000000001$pb"
+{standard input}:208:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_1" can't be undefined in a subtraction expression
+{standard input}:202:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_7" minus "L00000000001$pb"
+{standard input}:202:symbol: "L_OBJC_SELECTOR_REFERENCES_7" can't be undefined in a subtraction expression
+{standard input}:193:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_6" minus "L00000000001$pb"
+{standard input}:193:symbol: "L_OBJC_SELECTOR_REFERENCES_6" can't be undefined in a subtraction expression
+{standard input}:185:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_5" minus "L00000000001$pb"
+{standard input}:185:symbol: "L_OBJC_SELECTOR_REFERENCES_5" can't be undefined in a subtraction expression
+{standard input}:179:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_4" minus "L00000000001$pb"
+{standard input}:179:symbol: "L_OBJC_SELECTOR_REFERENCES_4" can't be undefined in a subtraction expression
+{standard input}:176:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_1" minus "L00000000001$pb"
+{standard input}:176:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_1" can't be undefined in a subtraction expression
+{standard input}:157:non-relocatable subtraction expression, "L_OBJC_IVAR_$_RootViewController.letUserSelectRow$non_lazy_ptr" minus "L00000000001$pb"
+{standard input}:157:symbol: "L_OBJC_IVAR_$_RootViewController.letUserSelectRow$non_lazy_ptr" can't be undefined in a subtraction expression
+{standard input}:150:non-relocatable subtraction expression, "L_OBJC_IVAR_$_RootViewController.searching$non_lazy_ptr" minus "L00000000001$pb"
+{standard input}:150:symbol: "L_OBJC_IVAR_$_RootViewController.searching$non_lazy_ptr" can't be undefined in a subtraction expression
+{standard input}:142:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_3" minus "L00000000001$pb"
+{standard input}:142:symbol: "L_OBJC_SELECTOR_REFERENCES_3" can't be undefined in a subtraction expression
+{standard input}:136:non-relocatable subtraction expression, "L_OBJC_IVAR_$_RootViewController.searchBar$non_lazy_ptr" minus "L00000000001$pb"
+{standard input}:136:symbol: "L_OBJC_IVAR_$_RootViewController.searchBar$non_lazy_ptr" can't be undefined in a subtraction expression
+{standard input}:128:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L00000000001$pb"
+{standard input}:128:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression
+{standard input}:122:non-relocatable subtraction expression, "L_OBJC_IVAR_$_RootViewController.searchBar$non_lazy_ptr" minus "L00000000001$pb"
+{standard input}:122:symbol: "L_OBJC_IVAR_$_RootViewController.searchBar$non_lazy_ptr" can't be undefined in a subtraction expression
+{standard input}:115:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_15" minus "L00000000001$pb"
+{standard input}:115:symbol: "L_OBJC_SELECTOR_REFERENCES_15" can't be undefined in a subtraction expression
+{standard input}:107:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L00000000001$pb"
+{standard input}:107:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression
+{standard input}:99:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L00000000001$pb"
+{standard input}:99:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression
+{standard input}:95:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_SUP_REFS_$_0" minus "L00000000001$pb"
+{standard input}:95:symbol: "L_OBJC_CLASSLIST_SUP_REFS_$_0" can't be undefined in a subtraction expression
+{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_SUP_REFS_$_0
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_0
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_1
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_15
+{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_RootViewController.searchBar$non_lazy_ptr
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_2
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_3
+{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_RootViewController.searching$non_lazy_ptr
+{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_RootViewController.letUserSelectRow$non_lazy_ptr
+{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_1
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_4
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_5
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_6
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_7
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_8
+{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_2
+{standard input}:unknown:Undefined local symbol L_kABPersonFirstNameProperty$non_lazy_ptr
+{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_3
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_9
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_10
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_11
+{standard input}:unknown:Undefined local symbol L_kABPersonLastNameProperty$non_lazy_ptr
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_12
+{standard input}:unknown:Undefined local symbol L_kABPersonPhoneProperty$non_lazy_ptr
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_13
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_16
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_14
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_17
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_18
+{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_RootViewController.ovController$non_lazy_ptr
+{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_4
+{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_5
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_19
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_20
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_34
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_33
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_32
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_35
+{standard input}:unknown:Undefined local symbol LC10
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_21
+{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_6
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_22
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_23
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_24
+{standard input}:unknown:Undefined local symbol LC11
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_25
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_36
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_26
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_27
+{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_7
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_28
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_29
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_30
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_37
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_31
+{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_RootViewController.copyListOfItems$non_lazy_ptr
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_38
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_39
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_40
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_41

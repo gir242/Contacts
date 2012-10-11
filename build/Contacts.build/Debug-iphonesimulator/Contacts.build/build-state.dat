@@ -1,0 +1,435 @@
+TContacts
+v7
+r0
+t371627237.204441
+cCheck dependencies
+cProcessInfoPlistFile /Users/abdulsattar/Contacts/build/Debug-iphonesimulator/Contacts.app/Info.plist Contacts-Info.plist
+cCompileXIB /Users/abdulsattar/Contacts/MainWindow.xib
+cCompileXIB /Users/abdulsattar/Contacts/RootViewController.xib
+cCopyPlistFile /Users/abdulsattar/Contacts/build/Debug-iphonesimulator/Contacts.app/Menu.plist Menu.plist
+cCompileXIB /Users/abdulsattar/Contacts/Classes/DetailViewController.xib
+cCompileXIB /Users/abdulsattar/Contacts/Classes/OverlayView.xib
+cProcessPCH /var/folders/W9/W9fnnpjHEWSBMyEc6qpkYE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Contacts_Prefix-ememgwidwbfshwecvcgplrrvhqbx/Contacts_Prefix.pch.gch Contacts_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Contacts.build/Debug-iphonesimulator/Contacts.build/Objects-normal/i386/main.o /Users/abdulsattar/Contacts/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Contacts.build/Debug-iphonesimulator/Contacts.build/Objects-normal/i386/ContactsAppDelegate.o /Users/abdulsattar/Contacts/Classes/ContactsAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Contacts.build/Debug-iphonesimulator/Contacts.build/Objects-normal/i386/RootViewController.o /Users/abdulsattar/Contacts/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Contacts.build/Debug-iphonesimulator/Contacts.build/Objects-normal/i386/objectData.o /Users/abdulsattar/Contacts/Classes/objectData.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Contacts.build/Debug-iphonesimulator/Contacts.build/Objects-normal/i386/DetailViewController.o /Users/abdulsattar/Contacts/Classes/DetailViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Contacts.build/Debug-iphonesimulator/Contacts.build/Objects-normal/i386/OverlayViewController.o /Users/abdulsattar/Contacts/Classes/OverlayViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/abdulsattar/Contacts/build/Debug-iphonesimulator/Contacts.app/Contacts normal i386
+cGenerateDSYMFile /Users/abdulsattar/Contacts/build/Debug-iphonesimulator/Contacts.app.dSYM /Users/abdulsattar/Contacts/build/Debug-iphonesimulator/Contacts.app/Contacts
+cTouch /Users/abdulsattar/Contacts/build/Debug-iphonesimulator/Contacts.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/AddressBook.framework/AddressBook
+c000000004CC122E10000000000075FE0
+t1287725793
+s483296
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/AddressBook.framework/Headers/AddressBook.h
+c000000004CC122DB0000000000000424
+t1287725787
+s1060
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/AddressBookUI.framework/AddressBookUI
+c000000004CC129090000000000151F20
+t1287727369
+s1384224
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/AddressBookUI.framework/Headers/AddressBookUI.h
+c000000004CC128F80000000000000202
+t1287727352
+s514
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/Availability.h
+c000000004CB3FA080000000000001ADD
+t1286863368
+s6877
+
+N/Users/abdulsattar/Contacts/Classes/ContactsAppDelegate.h
+c000000005075524A00000000000001D4
+t1349866058
+s468
+i<UIKit/UIKit.h>
+
+N/Users/abdulsattar/Contacts/Classes/ContactsAppDelegate.m
+c00000000507552530000000000000AAC
+t1349866067
+s2732
+i"ContactsAppDelegate.h"
+i"RootViewController.h"
+
+N/Users/abdulsattar/Contacts/Classes/DetailViewController.h
+c00000000507552610000000000000189
+t1349866081
+s393
+i<UIKit/UIKit.h>
+
+N/Users/abdulsattar/Contacts/Classes/DetailViewController.m
+c00000000507552640000000000000678
+t1349866084
+s1656
+i"DetailViewController.h"
+
+N/Users/abdulsattar/Contacts/Classes/DetailViewController.xib
+c00000000507416050000000000004BAD
+t1349785093
+s19373
+
+N/Users/abdulsattar/Contacts/Classes/OverlayView.xib
+c000000004973921900000000000016FC
+t1232310809
+s5884
+
+N/Users/abdulsattar/Contacts/Classes/OverlayViewController.h
+c000000004974032C000000000000016A
+t1232339756
+s362
+i<UIKit/UIKit.h>
+
+N/Users/abdulsattar/Contacts/Classes/OverlayViewController.m
+c000000004994E1160000000000000293
+t1234493718
+s659
+i"OverlayViewController.h"
+i"RootViewController.h"
+
+N/Users/abdulsattar/Contacts/Classes/RootViewController.h
+c0000000050765D1300000000000002E0
+t1349934355
+s736
+i<UIKit/UIKit.h>
+i<AddressBook/AddressBook.h>
+i<AddressBookUI/AddressBookUI.h>
+i"objectData.h"
+i"OverlayViewController.h"
+
+N/Users/abdulsattar/Contacts/Classes/RootViewController.m
+c0000000050765D3D0000000000002D26
+t1349934397
+s11558
+i"RootViewController.h"
+i"DetailViewController.h"
+
+N/Users/abdulsattar/Contacts/Classes/objectData.h
+c000000005075525800000000000001D7
+t1349866072
+s471
+i<Foundation/Foundation.h>
+i<AddressBook/AddressBook.h>
+i<AddressBookUI/AddressBookUI.h>
+
+N/Users/abdulsattar/Contacts/Classes/objectData.m
+c000000005075525C00000000000000E9
+t1349866076
+s233
+i"objectData.h"
+
+N/Users/abdulsattar/Contacts/Contacts_Prefix.pch
+c000000005073B5B10000000000000142
+t1349760433
+s322
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/abdulsattar/Contacts/MainWindow.xib
+c000000005073CE000000000000005FA3
+t1349766656
+s24483
+
+N/Users/abdulsattar/Contacts/Menu.plist
+c000000004A382D730000000000000328
+t1245195635
+s808
+
+N/Users/abdulsattar/Contacts/RootViewController.xib
+c000000005075023D0000000000004E9F
+t1349845565
+s20127
+
+N/Users/abdulsattar/Contacts/build/Contacts.build/Debug-iphonesimulator/Contacts.build/Objects-normal/i386/Contacts.LinkFileList
+c00000000507653F500000000000002EA
+t1349932021
+s746
+
+N/Users/abdulsattar/Contacts/build/Contacts.build/Debug-iphonesimulator/Contacts.build/Objects-normal/i386/ContactsAppDelegate.o
+t1349934401
+s52636
+
+N/Users/abdulsattar/Contacts/build/Contacts.build/Debug-iphonesimulator/Contacts.build/Objects-normal/i386/DetailViewController.o
+t1349926817
+s41636
+
+N/Users/abdulsattar/Contacts/build/Contacts.build/Debug-iphonesimulator/Contacts.build/Objects-normal/i386/OverlayViewController.o
+t1349934401
+s39896
+
+N/Users/abdulsattar/Contacts/build/Contacts.build/Debug-iphonesimulator/Contacts.build/Objects-normal/i386/RootViewController.o
+t1349934401
+s64656
+
+N/Users/abdulsattar/Contacts/build/Contacts.build/Debug-iphonesimulator/Contacts.build/Objects-normal/i386/main.o
+t1349762442
+s6280
+
+N/Users/abdulsattar/Contacts/build/Contacts.build/Debug-iphonesimulator/Contacts.build/Objects-normal/i386/objectData.o
+t1349926817
+s8808
+
+N/Users/abdulsattar/Contacts/build/Debug-iphonesimulator/Contacts.app
+t1349934402
+s340
+
+N/Users/abdulsattar/Contacts/build/Debug-iphonesimulator/Contacts.app.dSYM
+t1349934402
+s102
+
+N/Users/abdulsattar/Contacts/build/Debug-iphonesimulator/Contacts.app/Contacts
+t1349934402
+s34372
+
+N/Users/abdulsattar/Contacts/build/Debug-iphonesimulator/Contacts.app/DetailViewController.nib
+t1349785102
+s1431
+
+N/Users/abdulsattar/Contacts/build/Debug-iphonesimulator/Contacts.app/Info.plist
+t1349762438
+s595
+
+N/Users/abdulsattar/Contacts/build/Debug-iphonesimulator/Contacts.app/MainWindow.nib
+t1349766664
+s1510
+
+N/Users/abdulsattar/Contacts/build/Debug-iphonesimulator/Contacts.app/Menu.plist
+t1349765197
+s349
+
+N/Users/abdulsattar/Contacts/build/Debug-iphonesimulator/Contacts.app/OverlayView.nib
+t1349932023
+s764
+
+N/Users/abdulsattar/Contacts/build/Debug-iphonesimulator/Contacts.app/PkgInfo
+t1349762438
+s8
+
+N/Users/abdulsattar/Contacts/build/Debug-iphonesimulator/Contacts.app/RootViewController.nib
+t1349846545
+s1205
+
+N/Users/abdulsattar/Contacts/main.m
+c000000005073B5B1000000000000016A
+t1349760433
+s362
+i<UIKit/UIKit.h>
+
+N/var/folders/W9/W9fnnpjHEWSBMyEc6qpkYE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Contacts_Prefix-ememgwidwbfshwecvcgplrrvhqbx/Contacts_Prefix.pch.gch
+t1349762442
+s15453392
+
+NContacts-Info.plist
+c000000005073B5B1000000000000038D
+t1349760433
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies371627237#371627237#0(0"0(0#1#0"8623862144#0"0#
+
+CCompileC build/Contacts.build/Debug-iphonesimulator/Contacts.build/Objects-normal/i386/ContactsAppDelegate.o /Users/abdulsattar/Contacts/Classes/ContactsAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s371627201.496283
+e371627201.772866
+r1
+xCompileC
+xbuild/Contacts.build/Debug-iphonesimulator/Contacts.build/Objects-normal/i386/ContactsAppDelegate.o
+x/Users/abdulsattar/Contacts/Classes/ContactsAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Users/abdulsattar/Contacts/Classes/ContactsAppDelegate.m371627201#371627201#0(0"0(0#0#57"/Users/abdulsattar/Contacts/Classes/ContactsAppDelegate.m8612818848#1851"    cd /Users/abdulsattar/Contacts    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/abdulsattar/Contacts/build/Contacts.build/Debug-iphonesimulator/Contacts.build/Contacts-generated-files.hmap -I/Users/abdulsattar/Contacts/build/Contacts.build/Debug-iphonesimulator/Contacts.build/Contacts-own-target-headers.hmap -I/Users/abdulsattar/Contacts/build/Contacts.build/Debug-iphonesimulator/Contacts.build/Contacts-all-target-headers.hmap -iquote /Users/abdulsattar/Contacts/build/Contacts.build/Debug-iphonesimulator/Contacts.build/Contacts-project-headers.hmap -F/Users/abdulsattar/Contacts/build/Debug-iphonesimulator -I/Users/abdulsattar/Contacts/build/Debug-iphonesimulator/include -I/Users/abdulsattar/Contacts/build/Contacts.build/Debug-iphonesimulator/Contacts.build/DerivedSources/i386 -I/Users/abdulsattar/Contacts/build/Contacts.build/Debug-iphonesimulator/Contacts.build/DerivedSources -include /var/folders/W9/W9fnnpjHEWSBMyEc6qpkYE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Contacts_Prefix-ememgwidwbfshwecvcgplrrvhqbx/Contacts_Prefix.pch -c /Users/abdulsattar/Contacts/Classes/ContactsAppDelegate.m -o /Users/abdulsattar/Contacts/build/Contacts.build/Debug-iphonesimulator/Contacts.build/Objects-normal/i386/ContactsAppDelegate.o0#
+
+CCompileC build/Contacts.build/Debug-iphonesimulator/Contacts.build/Objects-normal/i386/DetailViewController.o /Users/abdulsattar/Contacts/Classes/DetailViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s371619617.764346
+e371619617.974126
+r1
+xCompileC
+xbuild/Contacts.build/Debug-iphonesimulator/Contacts.build/Objects-normal/i386/DetailViewController.o
+x/Users/abdulsattar/Contacts/Classes/DetailViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/abdulsattar/Contacts/Classes/DetailViewController.m371619617#371619618#0(0"0(0#0#58"/Users/abdulsattar/Contacts/Classes/DetailViewController.m8599085696#1853"    cd /Users/abdulsattar/Contacts    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/abdulsattar/Contacts/build/Contacts.build/Debug-iphonesimulator/Contacts.build/Contacts-generated-files.hmap -I/Users/abdulsattar/Contacts/build/Contacts.build/Debug-iphonesimulator/Contacts.build/Contacts-own-target-headers.hmap -I/Users/abdulsattar/Contacts/build/Contacts.build/Debug-iphonesimulator/Contacts.build/Contacts-all-target-headers.hmap -iquote /Users/abdulsattar/Contacts/build/Contacts.build/Debug-iphonesimulator/Contacts.build/Contacts-project-headers.hmap -F/Users/abdulsattar/Contacts/build/Debug-iphonesimulator -I/Users/abdulsattar/Contacts/build/Debug-iphonesimulator/include -I/Users/abdulsattar/Contacts/build/Contacts.build/Debug-iphonesimulator/Contacts.build/DerivedSources/i386 -I/Users/abdulsattar/Contacts/build/Contacts.build/Debug-iphonesimulator/Contacts.build/DerivedSources -include /var/folders/W9/W9fnnpjHEWSBMyEc6qpkYE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Contacts_Prefix-ememgwidwbfshwecvcgplrrvhqbx/Contacts_Prefix.pch -c /Users/abdulsattar/Contacts/Classes/DetailViewController.m -o /Users/abdulsattar/Contacts/build/Contacts.build/Debug-iphonesimulator/Contacts.build/Objects-normal/i386/DetailViewController.o0#
+
+CCompileC build/Contacts.build/Debug-iphonesimulator/Contacts.build/Objects-normal/i386/OverlayViewController.o /Users/abdulsattar/Contacts/Classes/OverlayViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s371627201.773160
+e371627201.864640
+r1
+xCompileC
+xbuild/Contacts.build/Debug-iphonesimulator/Contacts.build/Objects-normal/i386/OverlayViewController.o
+x/Users/abdulsattar/Contacts/Classes/OverlayViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/abdulsattar/Contacts/Classes/OverlayViewController.m371627201#371627201#0(0"0(0#0#59"/Users/abdulsattar/Contacts/Classes/OverlayViewController.m8616542368#1855"    cd /Users/abdulsattar/Contacts    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/abdulsattar/Contacts/build/Contacts.build/Debug-iphonesimulator/Contacts.build/Contacts-generated-files.hmap -I/Users/abdulsattar/Contacts/build/Contacts.build/Debug-iphonesimulator/Contacts.build/Contacts-own-target-headers.hmap -I/Users/abdulsattar/Contacts/build/Contacts.build/Debug-iphonesimulator/Contacts.build/Contacts-all-target-headers.hmap -iquote /Users/abdulsattar/Contacts/build/Contacts.build/Debug-iphonesimulator/Contacts.build/Contacts-project-headers.hmap -F/Users/abdulsattar/Contacts/build/Debug-iphonesimulator -I/Users/abdulsattar/Contacts/build/Debug-iphonesimulator/include -I/Users/abdulsattar/Contacts/build/Contacts.build/Debug-iphonesimulator/Contacts.build/DerivedSources/i386 -I/Users/abdulsattar/Contacts/build/Contacts.build/Debug-iphonesimulator/Contacts.build/DerivedSources -include /var/folders/W9/W9fnnpjHEWSBMyEc6qpkYE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Contacts_Prefix-ememgwidwbfshwecvcgplrrvhqbx/Contacts_Prefix.pch -c /Users/abdulsattar/Contacts/Classes/OverlayViewController.m -o /Users/abdulsattar/Contacts/build/Contacts.build/Debug-iphonesimulator/Contacts.build/Objects-normal/i386/OverlayViewController.o0#
+
+CCompileC build/Contacts.build/Debug-iphonesimulator/Contacts.build/Objects-normal/i386/RootViewController.o /Users/abdulsattar/Contacts/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s371627201.509797
+e371627201.905905
+r1
+xCompileC
+xbuild/Contacts.build/Debug-iphonesimulator/Contacts.build/Objects-normal/i386/RootViewController.o
+x/Users/abdulsattar/Contacts/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /Users/abdulsattar/Contacts/Classes/RootViewController.m371627201#371627201#0(0"0(0#0#56"/Users/abdulsattar/Contacts/Classes/RootViewController.m8613212704#1849"    cd /Users/abdulsattar/Contacts    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/abdulsattar/Contacts/build/Contacts.build/Debug-iphonesimulator/Contacts.build/Contacts-generated-files.hmap -I/Users/abdulsattar/Contacts/build/Contacts.build/Debug-iphonesimulator/Contacts.build/Contacts-own-target-headers.hmap -I/Users/abdulsattar/Contacts/build/Contacts.build/Debug-iphonesimulator/Contacts.build/Contacts-all-target-headers.hmap -iquote /Users/abdulsattar/Contacts/build/Contacts.build/Debug-iphonesimulator/Contacts.build/Contacts-project-headers.hmap -F/Users/abdulsattar/Contacts/build/Debug-iphonesimulator -I/Users/abdulsattar/Contacts/build/Debug-iphonesimulator/include -I/Users/abdulsattar/Contacts/build/Contacts.build/Debug-iphonesimulator/Contacts.build/DerivedSources/i386 -I/Users/abdulsattar/Contacts/build/Contacts.build/Debug-iphonesimulator/Contacts.build/DerivedSources -include /var/folders/W9/W9fnnpjHEWSBMyEc6qpkYE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Contacts_Prefix-ememgwidwbfshwecvcgplrrvhqbx/Contacts_Prefix.pch -c /Users/abdulsattar/Contacts/Classes/RootViewController.m -o /Users/abdulsattar/Contacts/build/Contacts.build/Debug-iphonesimulator/Contacts.build/Objects-normal/i386/RootViewController.o0#
+
+CCompileC build/Contacts.build/Debug-iphonesimulator/Contacts.build/Objects-normal/i386/main.o /Users/abdulsattar/Contacts/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s371455242.800092
+e371455242.969358
+r1
+xCompileC
+xbuild/Contacts.build/Debug-iphonesimulator/Contacts.build/Objects-normal/i386/main.o
+x/Users/abdulsattar/Contacts/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@42"Compile /Users/abdulsattar/Contacts/main.m371455242#371455242#0(0"0(0#0#34"/Users/abdulsattar/Contacts/main.m8626059264#1813"    cd /Users/abdulsattar/Contacts    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/abdulsattar/Contacts/build/Contacts.build/Debug-iphonesimulator/Contacts.build/Contacts-generated-files.hmap -I/Users/abdulsattar/Contacts/build/Contacts.build/Debug-iphonesimulator/Contacts.build/Contacts-own-target-headers.hmap -I/Users/abdulsattar/Contacts/build/Contacts.build/Debug-iphonesimulator/Contacts.build/Contacts-all-target-headers.hmap -iquote /Users/abdulsattar/Contacts/build/Contacts.build/Debug-iphonesimulator/Contacts.build/Contacts-project-headers.hmap -F/Users/abdulsattar/Contacts/build/Debug-iphonesimulator -I/Users/abdulsattar/Contacts/build/Debug-iphonesimulator/include -I/Users/abdulsattar/Contacts/build/Contacts.build/Debug-iphonesimulator/Contacts.build/DerivedSources/i386 -I/Users/abdulsattar/Contacts/build/Contacts.build/Debug-iphonesimulator/Contacts.build/DerivedSources -include /var/folders/W9/W9fnnpjHEWSBMyEc6qpkYE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Contacts_Prefix-ememgwidwbfshwecvcgplrrvhqbx/Contacts_Prefix.pch -c /Users/abdulsattar/Contacts/main.m -o /Users/abdulsattar/Contacts/build/Contacts.build/Debug-iphonesimulator/Contacts.build/Objects-normal/i386/main.o0#
+
+CCompileC build/Contacts.build/Debug-iphonesimulator/Contacts.build/Objects-normal/i386/objectData.o /Users/abdulsattar/Contacts/Classes/objectData.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s371619617.584126
+e371619617.869865
+r1
+xCompileC
+xbuild/Contacts.build/Debug-iphonesimulator/Contacts.build/Objects-normal/i386/objectData.o
+x/Users/abdulsattar/Contacts/Classes/objectData.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@56"Compile /Users/abdulsattar/Contacts/Classes/objectData.m371619617#371619617#0(0"0(0#0#48"/Users/abdulsattar/Contacts/Classes/objectData.m8611145056#1833"    cd /Users/abdulsattar/Contacts    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/abdulsattar/Contacts/build/Contacts.build/Debug-iphonesimulator/Contacts.build/Contacts-generated-files.hmap -I/Users/abdulsattar/Contacts/build/Contacts.build/Debug-iphonesimulator/Contacts.build/Contacts-own-target-headers.hmap -I/Users/abdulsattar/Contacts/build/Contacts.build/Debug-iphonesimulator/Contacts.build/Contacts-all-target-headers.hmap -iquote /Users/abdulsattar/Contacts/build/Contacts.build/Debug-iphonesimulator/Contacts.build/Contacts-project-headers.hmap -F/Users/abdulsattar/Contacts/build/Debug-iphonesimulator -I/Users/abdulsattar/Contacts/build/Debug-iphonesimulator/include -I/Users/abdulsattar/Contacts/build/Contacts.build/Debug-iphonesimulator/Contacts.build/DerivedSources/i386 -I/Users/abdulsattar/Contacts/build/Contacts.build/Debug-iphonesimulator/Contacts.build/DerivedSources -include /var/folders/W9/W9fnnpjHEWSBMyEc6qpkYE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Contacts_Prefix-ememgwidwbfshwecvcgplrrvhqbx/Contacts_Prefix.pch -c /Users/abdulsattar/Contacts/Classes/objectData.m -o /Users/abdulsattar/Contacts/build/Contacts.build/Debug-iphonesimulator/Contacts.build/Objects-normal/i386/objectData.o0#
+
+CCompileXIB /Users/abdulsattar/Contacts/Classes/DetailViewController.xib
+s371477901.783434
+e371477902.734639
+r1
+xCompileXIB
+x/Users/abdulsattar/Contacts/Classes/DetailViewController.xib
+lSLF07#2@43"CompileXIB Classes/DetailViewController.xib371477901#371477902#0(0"0(0#0#60"/Users/abdulsattar/Contacts/Classes/DetailViewController.xib8624279072#566"    cd /Users/abdulsattar/Contacts    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/abdulsattar/Contacts/build/Debug-iphonesimulator/Contacts.app/DetailViewController.nib /Users/abdulsattar/Contacts/Classes/DetailViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/abdulsattar/Contacts/Classes/OverlayView.xib
+s371624821.727266
+e371624823.079833
+r1
+xCompileXIB
+x/Users/abdulsattar/Contacts/Classes/OverlayView.xib
+lSLF07#2@34"CompileXIB Classes/OverlayView.xib371624821#371624823#0(0"0(0#0#51"/Users/abdulsattar/Contacts/Classes/OverlayView.xib30399585250639988#548"    cd /Users/abdulsattar/Contacts    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/abdulsattar/Contacts/build/Debug-iphonesimulator/Contacts.app/OverlayView.nib /Users/abdulsattar/Contacts/Classes/OverlayView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/abdulsattar/Contacts/MainWindow.xib
+s371459463.992060
+e371459464.835529
+r1
+xCompileXIB
+x/Users/abdulsattar/Contacts/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib371459463#371459464#0(0"0(0#0#42"/Users/abdulsattar/Contacts/MainWindow.xib8618173504#538"    cd /Users/abdulsattar/Contacts    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/abdulsattar/Contacts/build/Debug-iphonesimulator/Contacts.app/MainWindow.nib /Users/abdulsattar/Contacts/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/abdulsattar/Contacts/RootViewController.xib
+s371539343.462714
+e371539345.381656
+r1
+xCompileXIB
+x/Users/abdulsattar/Contacts/RootViewController.xib
+lSLF07#2@33"CompileXIB RootViewController.xib371539343#371539345#0(0"0(0#0#50"/Users/abdulsattar/Contacts/RootViewController.xib8622208576#554"    cd /Users/abdulsattar/Contacts    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/abdulsattar/Contacts/build/Debug-iphonesimulator/Contacts.app/RootViewController.nib /Users/abdulsattar/Contacts/RootViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCopyPlistFile /Users/abdulsattar/Contacts/build/Debug-iphonesimulator/Contacts.app/Menu.plist Menu.plist
+s371457997.462593
+e371457997.680766
+r1
+xCopyPlistFile
+x/Users/abdulsattar/Contacts/build/Debug-iphonesimulator/Contacts.app/Menu.plist
+xMenu.plist
+lSLF07#2@15"Copy Menu.plist371457997#371457997#0(0"0(0#0#38"/Users/abdulsattar/Contacts/Menu.plist27866439313784944#364"    cd /Users/abdulsattar/Contacts    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copyplist --convert binary1 Menu.plist --outdir /Users/abdulsattar/Contacts/build/Debug-iphonesimulator/Contacts.app0#
+
+CGenerateDSYMFile /Users/abdulsattar/Contacts/build/Debug-iphonesimulator/Contacts.app.dSYM /Users/abdulsattar/Contacts/build/Debug-iphonesimulator/Contacts.app/Contacts
+s371627202.321837
+e371627202.447049
+r1
+xGenerateDSYMFile
+x/Users/abdulsattar/Contacts/build/Debug-iphonesimulator/Contacts.app.dSYM
+x/Users/abdulsattar/Contacts/build/Debug-iphonesimulator/Contacts.app/Contacts
+lSLF07#2@112"GenerateDSYMFile build/Debug-iphonesimulator/Contacts.app.dSYM build/Debug-iphonesimulator/Contacts.app/Contacts371627202#371627202#0(0"0(0#0#77"/Users/abdulsattar/Contacts/build/Debug-iphonesimulator/Contacts.app/Contacts8616972160#353"    cd /Users/abdulsattar/Contacts    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/abdulsattar/Contacts/build/Debug-iphonesimulator/Contacts.app/Contacts -o /Users/abdulsattar/Contacts/build/Debug-iphonesimulator/Contacts.app.dSYM0#
+
+CLd /Users/abdulsattar/Contacts/build/Debug-iphonesimulator/Contacts.app/Contacts normal i386
+s371627201.905986
+e371627202.321594
+r1
+xLd
+x/Users/abdulsattar/Contacts/build/Debug-iphonesimulator/Contacts.app/Contacts
+xnormal
+xi386
+lSLF07#2@82"Link /Users/abdulsattar/Contacts/build/Debug-iphonesimulator/Contacts.app/Contacts371627201#371627202#0(0"0(0#0#0"8615590016#898"    cd /Users/abdulsattar/Contacts    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/abdulsattar/Contacts/build/Debug-iphonesimulator -F/Users/abdulsattar/Contacts/build/Debug-iphonesimulator -filelist /Users/abdulsattar/Contacts/build/Contacts.build/Debug-iphonesimulator/Contacts.build/Objects-normal/i386/Contacts.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework AddressBook -framework AddressBookUI -o /Users/abdulsattar/Contacts/build/Debug-iphonesimulator/Contacts.app/Contacts0#
+
+CProcessInfoPlistFile /Users/abdulsattar/Contacts/build/Debug-iphonesimulator/Contacts.app/Info.plist Contacts-Info.plist
+s371455238.525304
+e371455238.622116
+r1
+xProcessInfoPlistFile
+x/Users/abdulsattar/Contacts/build/Debug-iphonesimulator/Contacts.app/Info.plist
+xContacts-Info.plist
+lSLF07#2@27"Process Contacts-Info.plist371455238#371455238#0(0"0(0#0#47"/Users/abdulsattar/Contacts/Contacts-Info.plist32088624093986912#449"    cd /Users/abdulsattar/Contacts    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Contacts-Info.plist -genpkginfo /Users/abdulsattar/Contacts/build/Debug-iphonesimulator/Contacts.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/abdulsattar/Contacts/build/Debug-iphonesimulator/Contacts.app/Info.plist0#
+
+CProcessPCH /var/folders/W9/W9fnnpjHEWSBMyEc6qpkYE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Contacts_Prefix-ememgwidwbfshwecvcgplrrvhqbx/Contacts_Prefix.pch.gch Contacts_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s371455240.425742
+e371455242.799906
+r1
+xProcessPCH
+x/var/folders/W9/W9fnnpjHEWSBMyEc6qpkYE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Contacts_Prefix-ememgwidwbfshwecvcgplrrvhqbx/Contacts_Prefix.pch.gch
+xContacts_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile Contacts_Prefix.pch371455240#371455242#0(0"0(0#0#47"/Users/abdulsattar/Contacts/Contacts_Prefix.pch5791474589542478848#1715"    cd /Users/abdulsattar/Contacts    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/abdulsattar/Contacts/build/Contacts.build/Debug-iphonesimulator/Contacts.build/Contacts-generated-files.hmap -I/Users/abdulsattar/Contacts/build/Contacts.build/Debug-iphonesimulator/Contacts.build/Contacts-own-target-headers.hmap -I/Users/abdulsattar/Contacts/build/Contacts.build/Debug-iphonesimulator/Contacts.build/Contacts-all-target-headers.hmap -iquote /Users/abdulsattar/Contacts/build/Contacts.build/Debug-iphonesimulator/Contacts.build/Contacts-project-headers.hmap -F/Users/abdulsattar/Contacts/build/Debug-iphonesimulator -I/Users/abdulsattar/Contacts/build/Debug-iphonesimulator/include -I/Users/abdulsattar/Contacts/build/Contacts.build/Debug-iphonesimulator/Contacts.build/DerivedSources/i386 -I/Users/abdulsattar/Contacts/build/Contacts.build/Debug-iphonesimulator/Contacts.build/DerivedSources -c /Users/abdulsattar/Contacts/Contacts_Prefix.pch -o /var/folders/W9/W9fnnpjHEWSBMyEc6qpkYE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Contacts_Prefix-ememgwidwbfshwecvcgplrrvhqbx/Contacts_Prefix.pch.gch0#
+
+CTouch /Users/abdulsattar/Contacts/build/Debug-iphonesimulator/Contacts.app
+s371627202.447133
+e371627202.491151
+r1
+xTouch
+x/Users/abdulsattar/Contacts/build/Debug-iphonesimulator/Contacts.app
+lSLF07#2@74"Touch /Users/abdulsattar/Contacts/build/Debug-iphonesimulator/Contacts.app371627202#371627202#0(0"0(0#0#0"8616545248#257"    cd /Users/abdulsattar/Contacts    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/abdulsattar/Contacts/build/Debug-iphonesimulator/Contacts.app0#
+
